@@ -8,8 +8,6 @@ In this lab, the objective is to extract information from a given website and wr
 
 ## Objectives
 
-In this lab, you will perform the following tasks:
-
 1. Extract information from a given website.
 2. Write the scraped data into a CSV file.
 
